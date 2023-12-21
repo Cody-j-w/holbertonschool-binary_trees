@@ -4,7 +4,7 @@
 /**
  * binary_tree_height - determines the height of a binary tree
  * @tree: the tree being measured
- * 
+ *
  * Return: the height of the tree. Defaults to 0 if tree is NULL
 */
 
